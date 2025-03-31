@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "414470546250",
+    "project_id": "naukolatek",
+    "storage_bucket": "naukolatek.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414470546250:android:1c6edfbb2ea069c5bbd7b3",
+        "android_client_info": {
+          "package_name": "com.example.naukolatek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5mbo5MZ78e1OBzbI0-1lRXqx4XCnxcCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
